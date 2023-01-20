@@ -1,0 +1,4 @@
+baseURL = 'https://trip9.github.io/'
+languageCode = 'en-us'
+title = 'The Controlled Chaos Blog'
+theme = 'mainroad'
